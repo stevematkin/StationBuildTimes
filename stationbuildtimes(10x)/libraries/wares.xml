@@ -66,7 +66,7 @@
     <replace sel="//wares/ware[@id='module_arg_def_tube_01']/production[@method='default']/@time">51</replace>
     <replace sel="//wares/ware[@id='module_arg_dock_tradestation_02']/production[@method='default']/@time">139</replace>
     <replace sel="//wares/ware[@id='module_arg_hab_l_01']/production[@method='default']/@time">115</replace>
-    <replace sel="//wares/ware[@id='module_arg_hab_m_01']/production[@method='default']/@time">181</replace>
+    <replace sel="//wares/ware[@id='module_arg_hab_m_01']/production[@method='default']/@time">81</replace>
     <replace sel="//wares/ware[@id='module_arg_hab_s_01']/production[@method='default']/@time">56</replace>
     <replace sel="//wares/ware[@id='module_arg_pier_l_02']/production[@method='default']/@time">66</replace>
     <replace sel="//wares/ware[@id='module_arg_pier_tradestation_01']/production[@method='default']/@time">42</replace>
